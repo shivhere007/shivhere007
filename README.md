@@ -114,7 +114,13 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
 
+## Hactoberfest(2024) Badges 🎉
 
+<br/>
+
+[![An image of @shivhere007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivhere007)](https://holopin.io/@shivhere007)
+
+<br/>
 
 ### Github Stats 🧊
 
