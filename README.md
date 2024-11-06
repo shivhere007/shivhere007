@@ -16,12 +16,12 @@
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Full-Stack Web Developer | Ex-SDE Intern [@Tata Steel UISL]() <br>
-⚡ Check my ✨ [Website](https://shivam-portfolio-html-css-js.netlify.app/) <br>
-📫 How to reach me: [Mail me](mailto:iamshiv0719@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/iamshiv07/)<br>
+⚡ Check my : [Website](https://shivam-portfolio-html-css-js.netlify.app/) <br>
+📫 How to reach me : [Mail me](mailto:iamshiv0719@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/iamshiv07/)<br>
 💬 Ask me about Web Development.<br>
-🤝 **Open to:** Collaborations with **passionate developers**, startups, and open-source communities.  
-🎯 **2024 Vision:** Dive deeper into **React**, **Next.js**, and **Data Structures & Algorithms**.  
-🎉 **Fun Fact:** I'm always up for networking and love making meaningful connections in the tech world!
+🤝 **Open to :** Collaborations with **passionate developers**, startups, and open-source communities.  
+🎯 **2024 Vision :** Dive deeper into **React**, **Next.js**, and **Data Structures & Algorithms**.  
+🎉 **Fun Fact :** I'm always up for networking and love making meaningful connections in the tech world!
 
 
 <!------------------------------------------------------------------------------- Tools Section ------------------------------------------------------------------------------------------------ -->
