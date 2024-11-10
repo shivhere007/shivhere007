@@ -34,8 +34,8 @@
 <table align="center" class="table table-dark">
   <tr bg-dark>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
-      <br>Next JS
+      <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="55" height="55" />
+      <br>VS Code
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
