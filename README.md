@@ -139,11 +139,6 @@
 <br/>
 
 
-<p align="center">
-   <a>
-     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivhere007&theme=radical" alt="shivhere007" /></p>
-   </a>
-</p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivhere007&theme=synthwave-84&true&hide_border=true" />
