@@ -42,8 +42,8 @@
       <br>React JS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="55" height="55" />
-      <br>TypeScript
+      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
+      <br>JavaScript
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
