@@ -13,6 +13,8 @@
   <a href="mailto:iamshiv0719@gmail.com">Contact me</a> 
 </p> 
 
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
+
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Full-Stack Web Developer | Ex-SDE Intern [@Tata Steel UISL]() <br>
