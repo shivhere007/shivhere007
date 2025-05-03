@@ -22,7 +22,7 @@
 📫 How to reach me : [Mail me](mailto:iamshiv0719@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/iamshiv07/)<br>
 💬 Ask me about Web Development.<br>
 🤝 **Open to :** Collaborations with **passionate developers**, startups, and open-source communities.  
-🎯 **2024 Vision :** Dive deeper into **React**, **Next.js**, and **Data Structures & Algorithms**.  
+🎯 **2025 Vision :** Dive deeper into **React**, **Next.js**, and **Data Structures & Algorithms**.  
 🎉 **Fun Fact :** I'm always up for networking and love making meaningful connections in the tech world!
 
 
